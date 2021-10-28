@@ -1,26 +1,26 @@
 {
-  "title": "Title of the website. Update me.",
-  "url": "https://update-me.com",
-  "domain": "update-me.com",
-  "description": "Description of the website. Update me.",
-  "genre": "Insert a schema.org genre",
-  "googleAnalyticsId": "GA ID. Update me. Note, that this is not compatible with the not-yet-commonly used version 4 of Google Analytics",
+  "title": "HeyUitsMe. Blogging.",
+  "url": "https://heyuits.me",
+  "domain": "heyuits.me",
+  "description": "A raving lunatic with a keyboard? Maybe so.",
+  "genre": "BlogPosting",
+  "googleAnalyticsId": "G-ZC970BS86R",
   "sendWebVitals": false,
   "feed": {
-    "subtitle": "Subtitle. Update me.",
+    "subtitle": "My blog feed. Always fresh, often nonsensical.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://update-me.com"
+    "id": "https://heyuits.me"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://update-me.com/feed/feed.json"
+    "url": "https://heyuits.me/feed/feed.json"
   },
   "author": {
-    "name": "Author Name. Update me.",
-    "twitterHandle": "update_me"
+    "name": "HeyUitsMe, blogging away.",
+    "twitterHandle": "chrisrindone"
   },
   "publisher": {
-    "name": "Publisher name. Update me."
+    "name": "Chris Rindone. @chrisrindone."
   }
 }
