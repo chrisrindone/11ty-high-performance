@@ -4,9 +4,9 @@ title: About
 templateClass: tmpl-post
 eleventyNavigation:
   key: About
-  order: 3
+  order: "3"
+
 ---
+![Bad haircut and in need of a shave our hero is caught offguard](https://res.cloudinary.com/chrisrindone/image/upload/v1635411563/PXL_20211024_014013553.PORTRAIT_2_1_czrojn.jpg "My Pandemic-Retirement Look 🤣🤣🤣")
 
-I am a person that writes stuff.
-
-This blog template is based on [eleventy-high-performance-blog](https://www.industrialempathy.com/posts/eleventy-high-performance-blog/) which itself is based on [eleventy-base-blog](https://github.com/11ty/eleventy-base-blog).
+My name is Chris and I am a person that writes stuff. Not high-quality, commercially viable, or particularly useful stuff. Just stuff.
